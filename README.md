@@ -13,5 +13,5 @@ It's free and powerful.
 
 ![3](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/36/06/9a36062d-a05e-2e4a-a62e-26269d33dac2/pr_source.jpg/300x300bb.jpg?1489369559287)
 
-If you have any problem please contact us
-E-mail：wuyin4612@outlook.com
+If you have any problem please contact us<br>
+E-mail：wuyin4612@outlook.com/<br>
