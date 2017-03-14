@@ -7,7 +7,7 @@ Automatically clear photos what need to delete, Organize photos into folders and
 
 It's free and powerful.
 
-![1](https://github.com/ios-Stephens/PhotoManager/blob/master/2208-1.jpg)  ![2](https://github.com/ios-Stephens/PhotoManager/blob/master/2208-2.jpg)  ![3](https://github.com/ios-Stephens/PhotoManager/blob/master/2208-3.jpg)
+![1](https://github.com/ios-Stephens/PhotoManager/blob/master/960-1.jpg)![2](https://github.com/ios-Stephens/PhotoManager/blob/master/960-2.jpg)![3](https://github.com/ios-Stephens/PhotoManager/blob/master/960-3.jpg)
 
 If you have any problem please contact us<br>
 E-mail：wuyin4612@outlook.com/<br>
