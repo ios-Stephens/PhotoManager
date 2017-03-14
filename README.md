@@ -9,5 +9,8 @@ It's free and powerful.
 
 ![1](https://github.com/ios-Stephens/PhotoManager/blob/master/960-1.jpg)![2](https://github.com/ios-Stephens/PhotoManager/blob/master/960-2.jpg)![3](https://github.com/ios-Stephens/PhotoManager/blob/master/960-3.jpg)
 
+Supports
+-------------
+
 If you have any problem please contact us<br>
 E-mail：wuyin4612@outlook.com/<br>
